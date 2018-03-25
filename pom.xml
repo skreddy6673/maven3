@@ -24,12 +24,12 @@
   
 	<repository>
     <id>deployment</id>
-    <url>http://34.224.164.212:8081/nexus/content/repositories/p1/</url>
+    <url>http://18.218.130.176:8081/nexus/content/repositories/s1/</url>
     </repository>
     
 	<snapshotRepository>
     <id>deployment</id>
-    <url>http://34.224.164.212:8081/nexus/content/repositories/p1-snap/</url>
+    <url>http://18.218.130.176:8081/nexus/content/repositories/s1-snap/</url>
     </snapshotRepository>
   
   
