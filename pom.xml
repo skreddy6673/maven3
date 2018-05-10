@@ -4,7 +4,7 @@
   <groupId>org.sonatype.mavenbook</groupId>
   <artifactId>simple_webapp</artifactId>
   <packaging>war</packaging>
-  <version>4.0-SNAPSHOT</version>
+  <version>5.0</version>
   <name>simple_webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -27,10 +27,7 @@
     <url>http://34.233.227.17:8081/nexus/content/repositories/releases/</url>
     </repository>
     
-	<snapshotRepository>
-    <id>snapshot</id>
-    <url>http://34.233.227.17:8081/nexus/content/repositories/snapshots/</url>
-    </snapshotRepository>
+
   
   
   </distributionManagement>
