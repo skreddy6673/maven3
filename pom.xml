@@ -23,12 +23,12 @@
   
   
 	<repository>
-    <id>deployment</id>
+    <id>release</id>
     <url>http://34.233.227.17:8081/nexus/content/repositories/releases/</url>
     </repository>
     
 	<snapshotRepository>
-    <id>deployment</id>
+    <id>snapshot</id>
     <url>http://34.233.227.17:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   
